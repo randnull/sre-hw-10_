@@ -11,7 +11,7 @@
 
 ![Иллюстрация к проекту](https://github.com/randnull/sre-hw-10_/blob/main/photos/rolling.png)
 
-Видим, что terminate поочередно для старый подов
+Видим, что terminate поочередно для старых подов
 
 # Blue Green
 
