@@ -46,7 +46,7 @@ spec:
 
 5. kubectl apply -f deployment_blue.yaml
 
-6. 4.  указать в service:
+6. указать в service:
 ```
 spec:
   type: NodePort
@@ -54,5 +54,6 @@ spec:
     app.kubernetes.io/name: oncall
     version: blue
 ```
+7. удалим deployment_green
 
 ![Иллюстрация к проекту](https://github.com/randnull/sre-hw-10_/blob/main/photos/blue_green.png)
